@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+*.log
+/common/car-travel-common/target/
+/common/car-travel-kafka/target/
+/common/car-travel-service/target/
+/common/car-travel-spark/target/
+/common/car-travel-util/target/
+/portal/car-travel-ordermonitor-web/target/
+/.idea/
+
